@@ -24,7 +24,7 @@ h4 {
 }
 
 body {
-  background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4765278.jpg");
+  background-image: url("https://images.all-free-download.com/images/graphiclarge/abstract_background_310618.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -50,4 +50,8 @@ body {
 
 .card {
   padding: 2vw;
+}
+
+.btn btn-primary {
+  padding: 100px;
 }

@@ -40,7 +40,7 @@ $(document).ready(function() {
     const colorInp = parseInt($("#color").val());
     const animalInt = parseInt($("#animal").val());
     const totalResult = addResult(edInp, backInt, colorInp, animalInt);
-    $(".result").text(codingLanguage(totalResult));
+    $("#name").text(codingLanguage(totalResult));
     $(".result").show();
   });
 });
