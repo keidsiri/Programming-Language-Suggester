@@ -2,7 +2,7 @@
 
 By _Kate Kiatsiri_
 
-_A webpage that suggest new student for coding language base on thier answers from series of questions.
+_A webpage that suggest new student for coding language base on thier answers from series of questions._
 
 ## Technologies used
   1. HTML
