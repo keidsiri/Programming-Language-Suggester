@@ -1,0 +1,27 @@
+@keyframes example {
+  from {color:red}
+  to {color:blanchedalmond;}
+}
+
+h1 {
+  text-align: center;
+  color:blanchedalmond;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+body {
+  background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4765278.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-group {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:lightsteelblue;
+  text-align:justify;
+}
