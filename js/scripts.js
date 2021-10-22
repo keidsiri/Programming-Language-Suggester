@@ -25,7 +25,7 @@ function codingLanguage(result) {
     $(".python").hide();
     $(".ruby").show();
   } else {
-    alert("Please fill out the question!");
+    alert("Please select the answer!");
   }
 }
 
