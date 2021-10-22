@@ -11,7 +11,7 @@ _A webpage that suggest new student for coding language base on thier answers fr
   4. jQuery
 
 ## Description
-_This is the 2nd perosnal project at Epicodus mainly using Javascript and jQuery making programming language suggestor. Creating a webpage (using Javascript , jQuery, HTML and CSS) for people who are interested in programming/Coding to help them decide which coding language they should learn first base on thier interests by asking series of questions about themselves and provides a language suggestion based on their answers._
+_This is the 2nd perosnal project at Epicodus mainly using Javascript and jQuery making programming language suggestor. Creating a webpage (using Javascript , jQuery, HTML and CSS) for people who are interested in programming/Coding to help them decide which coding language they should learn first base on thier interests by asking series of questions about themselves and provides a language suggestion based on their answers.Please view my project at the website https://keidsiri.github.io/Programming-Language-Suggester. Try it out and find out which programming language is suit you_
 
 ## Set up/installation requirement
 * Code editor required (such as Visual Studio Code) and Github account.
