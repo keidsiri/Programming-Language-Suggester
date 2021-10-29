@@ -2,7 +2,7 @@
 
 By _Kate Kiatsiri_
 
-_A webpage that suggest new student for coding language base on thier answers from series of questions._
+_A webpage that suggest new student for coding language base on their answers from series of questions._
 
 ## Technologies used
   1. HTML
@@ -11,14 +11,14 @@ _A webpage that suggest new student for coding language base on thier answers fr
   4. jQuery
 
 ## Description
-_This is the 2nd perosnal project at Epicodus mainly using Javascript and jQuery making programming language suggestor. Creating a webpage (using Javascript , jQuery, HTML and CSS) for people who are interested in programming/Coding to help them decide which coding language they should learn first base on thier interests by asking series of questions about themselves and provides a language suggestion based on their answers.Please view my project at the website https://keidsiri.github.io/Programming-Language-Suggester. Try it out and find out which programming language is suit you_
+_This is the 2nd personal project at Epicodus mainly using Javascript and jQuery making programming language suggester. Creating a webpage (using Javascript , jQuery, HTML and CSS) for people who are interested in programming/Coding to help them decide which coding language they should learn first base on their interests by asking series of questions about themselves and provides a language suggestion based on their answers.Please view my project at the website https://keidsiri.github.io/Programming-Language-Suggester. Try it out and find out which programming language is suit you_
 
 ## Set up/installation requirement
 * Code editor required (such as Visual Studio Code) and Github account.
 * Navigate this address https://github.com/keidsiri/Portfolio into your browser or 
 <a href="https://github.com/keidsiri/Portfolio"> click here! </a>
 * Clone this repository to your desktop.
-* Navigate to the top of disrectory
+* Navigate to the top of directory
 * Connect to your Github repository
 * Open files in VS code to view or edit
 * Open file name _index.html_ in your browser to view this project.
